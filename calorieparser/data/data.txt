@@ -1,0 +1,1 @@
+this folder will store all the data (HTML + JSON + .csv files for each category)
