@@ -1,1 +1,1 @@
-import bs4 + import requests --> run run.py 
+import bs4 + import requests + lxml --> run run.py 
